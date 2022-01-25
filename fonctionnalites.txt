@@ -1,0 +1,20 @@
+C'est la categorie de jus et boissons non alcoolisee.
+
+->Client
+	s'authentifier
+	creer compte 
+	modifier profil (nom complet,numtel, adressePhysique, categorie,client)
+	rechercher article
+	effectuer reservation
+	acheter article (commander)
+	ajouter au panier
+	consulter catalogue
+	
+
+->Magasinier
+	Enregistrer article
+	afficher quantite stock
+	Valider paiement
+
+-> Alerte stock
+-> Notifier

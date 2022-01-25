@@ -1,0 +1,23 @@
+Tout d'abord tous les produits, caterories qui sont visibles cote client sont
+publier du cote admin (magasinier).
+
+NB :-> La base de donnees a ete modifiee alors il faut la modifiee aussi ou carrement
+creer une nouvelle puis importee la nouvelle qui se trouve dans le projet sous le nom
+de : Epsaro.sql
+
+
+	-> Puis tu peux carrement copier mon projet et le coller dans celui que tu as
+
+pour acceder au dashboard (tableau de bord du magasinier) il faut :
+
+-> lien : localhost/psaro/admin_login/
+
+-> les informations de connexion sont
+ 
+mail : 17kn083@esisalama.org
+password : 123456kf
+
+Apres tu peux essayer de faire quelques manipulations pour voir ce que ca donne
+
+=> Avant toute chose ajoute d'abord les categories des articles et puis les marques et
+enfin tu peux ajouter les articles
